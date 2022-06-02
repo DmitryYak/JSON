@@ -4,7 +4,7 @@
 "discription": "By trying export text to PDF written by kirrilitca, the sistem have a mistake and save only english text.",
 "reproduce": "1. Opening proect Drezna Documentation 2.Open requairment #1 (RQ-001) 3. Export the document to PDF file",
 "actual result": "The document don't have value in kirillitca",
-"expectet result": "1. Opening proect Drezna Documentation 2. Open requairment #1 (RQ-001) 3. Export the document to PDF file 4. PDF file had correct value in kirilitca"
+"expectet result": "1. Opening proect Drezna Documentation 2. Open requairment #1 (RQ-001) 3. Export the document to PDF file 4. PDF file had correct value in kirilitca",
 "environment": "windows 11 google chrome version 101.0.4951.67",
 "priority": "medium"
 }
